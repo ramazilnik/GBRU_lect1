@@ -21,6 +21,14 @@
 
 ### Other things
 
+# to connect to the Github site, you need to log in on the site and in the Git program
+
+commands for work with Github:
+* pull - pulling data from web site
+* push - uploaded data to web site
+* clone - copies the project and downloads it to the local machine
+
+
 ### this picture from local disk
 ![pictures info](888.png)
 
